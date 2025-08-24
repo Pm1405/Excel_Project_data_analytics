@@ -1,2 +1,2 @@
 # Excel_Project_data_analytics
-My first project demonstrating my excel skills
+My first two projects demonstrating my excel skills
