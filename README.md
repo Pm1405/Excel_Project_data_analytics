@@ -29,7 +29,7 @@ An **interactive salary dashboard** built in Excel to analyze compensation acros
 
 
 ## 📁 Project 2: Skill & Salary Analysis
-**link:**https://github.com/Pm1405/Excel_Project_data_analytics/tree/main/Project%202
+**link:** https://github.com/Pm1405/Excel_Project_data_analytics/tree/main/Project%202
 
 An Excel project analyzing **job skills and salaries** using pivot tables, charts, and summary sheets.
 
