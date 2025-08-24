@@ -6,7 +6,7 @@ This repository contains two Excel-based projects focusing on **salary insights*
 
 ## 📁 Project 1: Salary Dashboard
 
-**link:** `[Final_dashboard_Project_1.xlsx`](https://github.com/Pm1405/Excel_Project_data_analytics/blob/main/Project%201/Final_dashboard_Project_1.xlsx)
+**link:** https://github.com/Pm1405/Excel_Project_data_analytics/tree/main/Project%201
 
 An **interactive salary dashboard** built in Excel to analyze compensation across different job roles, countries, job types, and platforms.
 
@@ -29,8 +29,7 @@ An **interactive salary dashboard** built in Excel to analyze compensation acros
 
 
 ## 📁 Project 2: Skill & Salary Analysis
-**link:** https://github.com/Pm1405/Excel_Project_data_analytics/blob/main/Project%202/Project%202.xlsx
-
+**link:**https://github.com/Pm1405/Excel_Project_data_analytics/tree/main/Project%202
 
 An Excel project analyzing **job skills and salaries** using pivot tables, charts, and summary sheets.
 
